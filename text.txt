@@ -1,0 +1,6 @@
+if 
+	computer = crash
+	
+	crash = dont;
+else
+	(fuck)
